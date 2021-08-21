@@ -1174,12 +1174,6 @@ About: Software Developer<br/>
 Programming Language: Go, Python<br/>
 Email: gargi.2812@gmail.com<br/>
 
-Name: [Rupna Maitra](https://github.com/zonex909)<br/>
-Place: Kolkata , West bengal , india<br/>
-About: Retired software developer<br/>
-Programming Language: C#, Python , ruby , lisp , cpp<br/>
-Email: killerdadu99@gmail.com<br/>
-
 Name: [Rafael Julio](https://github.com/h4ndshake)
 Place: São Paulo, Brazil
 About: Computer Engineer
